@@ -1,0 +1,1 @@
+This catalog mainly deals with 2D fish model data simulated by ANSYS software. The methods used include genetic algorithms, neural networks, etc. Among them, neural networks work best and can achieve 99% accuracy in the prediction of thrust coefficients after adding machine learning techniques, such as layer normalization and attention mechanisms.
